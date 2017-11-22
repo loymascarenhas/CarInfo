@@ -2,14 +2,15 @@
 
 Build Type: Maven
 
-REST API - Jersey
+REST API: Jersey
 
 Data stored in memory: Map
 
 Setup
 -----
-Extract the zip file to your local machine
+Obtain the copy from the git repository in your local machine
 
+	--> git clone https://github.com/loymascarenhas/CarInfo.git
 
 Server port set to 8080, if required can be changed at location: target/classes/application.properties
 
@@ -17,7 +18,7 @@ Server port set to 8080, if required can be changed at location: target/classes/
 
 Run the application
 -------------------
-Open command prompt and change directory to he extracted project location (eg. cd path\car-data)
+Open command prompt and change directory to the extracted project location (eg. cd path\CarInfo)
 
 To start the application, use command
 
@@ -26,7 +27,7 @@ To start the application, use command
 URI test using cURL
 -------------------
 Open command prompt to file location where the cars.json file exist (for adding cars)
-	--> eg. cd zip-extracted-path\car-data
+	--> eg. cd zip-extracted-path\CarInfo
 
 Add Car(s)
 ----------
