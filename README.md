@@ -1,6 +1,9 @@
-Project Name: car-data
+# CarInfo
+
 Build Type: Maven
+
 REST API - Jersey
+
 Data stored in memory: Map
 
 Setup
