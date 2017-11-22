@@ -1,0 +1,17 @@
+[
+	{
+		"year":2010,
+		"make":"audi",
+		"type":"sedan"
+	},
+	{
+		"year":2013,
+		"make":"mercedes",
+		"type":"sedan"
+	},
+	{
+		"year":2015,
+		"make":"mercedes",
+		"type":"suv"
+	}
+]

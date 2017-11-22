@@ -1,0 +1,5 @@
+com\cardata\Application.class
+com\cardata\rest\CarRest.class
+com\cardata\rest\Car.class
+com\cardata\ApplicationConfig$JerseyConfig.class
+com\cardata\ApplicationConfig.class
